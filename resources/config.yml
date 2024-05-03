@@ -1,0 +1,20 @@
+# by ValresMC : https://www.github.com/ValresMC
+# Discord : https://discord.gg/4bAceda9q3
+#
+#
+# Utilises {player} pour remplacé par le nom du joueur.
+# *1 : true = activé, false = désactivé
+# *2 : message = message dans le chat, popup = message hotbar
+#
+first-join-message:
+  enabled: false
+  type : "popup"
+  message: "Bienvenue, {player} ! Amuses toi bien sur le serveur !"
+
+join-message:
+  type: "popup"
+  message: "{player} à rejoint le serveur !"
+
+quit-message:
+  type: "message"
+  message: "{player} à quiité le serveur !"

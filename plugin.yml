@@ -1,0 +1,5 @@
+name: JoinQuit
+author: Valres
+version: 0.0.1
+api: [5.0.0]
+main: Valres\JoinQuit\Main
