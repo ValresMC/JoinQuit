@@ -6,9 +6,9 @@ Ce plugin permet de changer les messages de connexion et deconnexion d'un joueur
 
 # **Fonctionnalités**
 
-- **Message de connexion :**: Définissez des messages personnalisés pour accueillir les joueurs lorsqu'ils rejoignent votre serveur. Activé ou non un message de bienvenue lors de la première connexion.
-- **Message de déconnexion :**: Personnalisez les messages affichés lorsque les joueurs quittent votre serveur.
-- **Optimisé :**: Conçu pour être léger et efficace, garantissant un impact minimal sur les performances du serveur.
+- **Message de connexion :** Définissez des messages personnalisés pour accueillir les joueurs lorsqu'ils rejoignent votre serveur. Activé ou non un message de bienvenue lors de la première connexion.
+- **Message de déconnexion :** Personnalisez les messages affichés lorsque les joueurs quittent votre serveur.
+- **Optimisé :** Conçu pour être léger et efficace, garantissant un impact minimal sur les performances du serveur.
 
 ---
 
@@ -32,7 +32,7 @@ join-message:
 
 quit-message:
   type: "message"
-  message: "{player} à quiité le serveur !"
+  message: "{player} à quitté le serveur !"
 ```
 
 ---

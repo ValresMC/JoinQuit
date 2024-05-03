@@ -17,4 +17,4 @@ join-message:
 
 quit-message:
   type: "message"
-  message: "{player} à quiité le serveur !"
+  message: "{player} à quitté le serveur !"
